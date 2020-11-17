@@ -1,4 +1,4 @@
-package cs3345.unitTestDemo.rpnCalc;
+package cs3354.unitTestDemo.rpnCalc;
 
 import static org.junit.Assert.*;
 
@@ -6,6 +6,7 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
+import cs3354.unitTestDemo.rpnCalc.RpnCalc;
 import cs3354.unitTestDemo.util.CalcError;
 
 public class RpnCalcTestCase

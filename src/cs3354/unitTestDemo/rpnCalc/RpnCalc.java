@@ -1,4 +1,4 @@
-package cs3345.unitTestDemo.rpnCalc;
+package cs3354.unitTestDemo.rpnCalc;
 
 import java.util.EmptyStackException;
 import java.util.Stack;
